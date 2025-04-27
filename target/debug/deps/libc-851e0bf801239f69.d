@@ -1,0 +1,11 @@
+C:\Users\javie\OneDrive\Desktop\VS Code\Rust\4345_Project\ids\target\debug\deps\liblibc-851e0bf801239f69.rmeta: C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\lib.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\macros.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\primitives.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\mod.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\msvc\mod.rs
+
+C:\Users\javie\OneDrive\Desktop\VS Code\Rust\4345_Project\ids\target\debug\deps\liblibc-851e0bf801239f69.rlib: C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\lib.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\macros.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\primitives.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\mod.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\msvc\mod.rs
+
+C:\Users\javie\OneDrive\Desktop\VS Code\Rust\4345_Project\ids\target\debug\deps\libc-851e0bf801239f69.d: C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\lib.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\macros.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\primitives.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\mod.rs C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\msvc\mod.rs
+
+C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\lib.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\macros.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\primitives.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\mod.rs:
+C:\Users\javie\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.171\src\windows\msvc\mod.rs:
